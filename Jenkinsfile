@@ -15,7 +15,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                sh 'echo "master"'
+                sh 'echo "master1"'
                 
             }
         }
